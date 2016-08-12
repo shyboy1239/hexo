@@ -77,7 +77,7 @@ $ npm install hexo-deployer-git --save
 ``` bash
 deploy:
   type: git
-  repo: git@githubpages.com:shyboy1239/shyboy1239. github.io.git
+  repo: git@githubpages.com:shyboy1239/shyboy1239.github.io.git
   branch: master
 ```
  *备注：因为本地存在多个ssh key,githubpages.com是之前为了进行区分而配置的别名*
