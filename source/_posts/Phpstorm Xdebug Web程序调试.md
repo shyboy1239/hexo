@@ -29,7 +29,7 @@ xdebug.remote_enable = 1
 #### 调试
 在phpstorm对应的文件中设置好断点。
 开启监听，在菜单 -> run -> Start Listening for PHP Debug Connections。
-接着在浏览器打开对应的页面，注意右上角Xdebug helper插件小图标的状态是否为开启，如果顺利的话，phpstorm下方就会弹出调试信息的面板了！
+接着在浏览器打开对应的页面，注意右上角Xdebug helper插件小图标的状态是否为开启，如果顺利的话，phpstorm下方就会弹出调试信息的面板了！（如果是第一次配置，会出现一个来自xdebug的连接配置提示，直接点击接受即可）
 #### 结语
 本文介绍的方法主要通过结合浏览器插件来实现，比较方便简单，其他更多相关内容还请参考Xdebug和PHPstorm的官方文档。
 
