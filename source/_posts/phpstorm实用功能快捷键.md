@@ -24,3 +24,7 @@ Ctrl + N
 ```
 Ctrl + Alt + F12
 ```
+#### 6. 对比文件
+```
+Ctrl + 鼠标左键 选中文件，鼠标右键选择Compare Files（Ctrl + D）
+```
